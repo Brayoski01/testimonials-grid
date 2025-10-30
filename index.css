@@ -1,5 +1,6 @@
 body{
   background-color: hsl(0, 0%, 100%);
+  font-family: "League Spartan";
 }
 .container{
     height: 50%;
@@ -74,3 +75,4 @@ body{
     border-radius: 6px;
 
 }
+
