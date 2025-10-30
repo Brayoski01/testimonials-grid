@@ -11,7 +11,7 @@ body{
     
 }
 .card1{
-    background-image: url('images/bg-pattern-quotation.svg');
+    background-image: url('bg-pattern-quotation.svg');
     background-position: top right;
     background-repeat: no-repeat;
     background-color: rgb(100, 48, 156);
@@ -72,4 +72,5 @@ body{
     padding-left: 10px;
     padding-right: 5px;
     border-radius: 6px;
+
 }
