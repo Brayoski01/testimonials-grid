@@ -1,6 +1,6 @@
 body{
   background-color: hsl(0, 0%, 100%);
-  font-family: "League Spartan";
+  font-family: "Barlow Semi Condensed";
   line-height: 1.5rem;
 }
 .container{
@@ -16,7 +16,7 @@ body{
     background-image: url('bg-pattern-quotation.svg');
     background-position: top right;
     background-repeat: no-repeat;
-    background-color: rgb(100, 48, 156);
+    background-color: hsl(263, 55%, 52%);
     color: white;
     grid-column: span 2;
     border-radius: 6px;
@@ -44,7 +44,7 @@ body{
 }
 
 .card2{
-    background-color: rgb(81, 80, 91);
+    background-color: hsl(217, 19%, 35%);
     color: white;
     padding-left: 10px;
     padding-right: 5px;
@@ -59,7 +59,7 @@ body{
 }
 
 .card4{
-    background-color: rgb(34, 34, 53);
+    background-color: hsl(219, 29%, 14%);
     color: white;
     grid-column: span 2;
     padding-left: 10px;
@@ -76,6 +76,7 @@ body{
     border-radius: 6px;
 
 }
+
 
 
 
